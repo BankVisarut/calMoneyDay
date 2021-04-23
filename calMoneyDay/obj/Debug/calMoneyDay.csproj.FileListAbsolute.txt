@@ -26,3 +26,6 @@ D:\iProgrammer\Projects\GitHub\HW_money\calMoneyDay\obj\Debug\calMoneyDay.Proper
 D:\iProgrammer\Projects\GitHub\HW_money\calMoneyDay\obj\Debug\calMoneyDay.csproj.GenerateResource.Cache
 D:\iProgrammer\Projects\GitHub\HW_money\calMoneyDay\obj\Debug\calMoneyDay.exe
 D:\iProgrammer\Projects\GitHub\HW_money\calMoneyDay\obj\Debug\calMoneyDay.pdb
+D:\iProgrammer\Projects\GitHub\calMoneyDay\calMoneyDay\bin\Debug\calMoneyDay.exe.config
+D:\iProgrammer\Projects\GitHub\calMoneyDay\calMoneyDay\obj\Debug\calMoneyDay.exe
+D:\iProgrammer\Projects\GitHub\calMoneyDay\calMoneyDay\obj\Debug\calMoneyDay.pdb
